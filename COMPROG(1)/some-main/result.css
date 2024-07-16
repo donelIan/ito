@@ -1,0 +1,42 @@
+body {
+  background-image: url(img/2.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.info-container {
+  background-color: white;
+  height: 55%;
+  width: 90%;
+  position: absolute;
+  top: 40.7%;
+  left: 7.9%;
+  padding: 10px;
+}
+h2 {
+  position: absolute;
+  left: 40%;
+  top: -5%;
+}
+
+.back-button {
+  background-color: gray;
+  width: 60px;
+  height: 30px;
+  position: absolute;
+  left: 0.5%;
+  color: black;
+  top: 1%;
+  align-items: center;
+  padding-bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+  position: absolute;
+  left: 16%;
+  top: -7%;
+}
+button {
+  align-items: center;
+}

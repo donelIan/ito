@@ -1,0 +1,29 @@
+body {
+  background-image: url(img/1.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.srch_container {
+  position: absolute;
+  text-align: center;
+  width: 30%;
+  height: 18%;
+  left: 20%;
+  top: 40%;
+}
+
+h2 {
+  background-color: aliceblue;
+  top: -40%;
+  left: 25%;
+  position: absolute;
+  width: 50%;
+  text-align: center;
+}
+
+.add {
+  top: 22%;
+  left: 43%;
+}
